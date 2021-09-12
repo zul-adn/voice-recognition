@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/voice-recognition/static/css/main.1272995d.chunk.css",
-    "main.js": "/voice-recognition/static/js/main.5f61dbd4.chunk.js",
-    "main.js.map": "/voice-recognition/static/js/main.5f61dbd4.chunk.js.map",
-    "runtime-main.js": "/voice-recognition/static/js/runtime-main.950d9992.js",
-    "runtime-main.js.map": "/voice-recognition/static/js/runtime-main.950d9992.js.map",
-    "static/js/2.83af2795.chunk.js": "/voice-recognition/static/js/2.83af2795.chunk.js",
-    "static/js/2.83af2795.chunk.js.map": "/voice-recognition/static/js/2.83af2795.chunk.js.map",
-    "static/js/3.e919bd20.chunk.js": "/voice-recognition/static/js/3.e919bd20.chunk.js",
-    "static/js/3.e919bd20.chunk.js.map": "/voice-recognition/static/js/3.e919bd20.chunk.js.map",
+    "main.css": "/voice-recognition/static/css/main.24cd1bcb.chunk.css",
+    "main.js": "/voice-recognition/static/js/main.ea88ad6b.chunk.js",
+    "main.js.map": "/voice-recognition/static/js/main.ea88ad6b.chunk.js.map",
+    "runtime-main.js": "/voice-recognition/static/js/runtime-main.37ac8299.js",
+    "runtime-main.js.map": "/voice-recognition/static/js/runtime-main.37ac8299.js.map",
+    "static/js/2.e498bd7a.chunk.js": "/voice-recognition/static/js/2.e498bd7a.chunk.js",
+    "static/js/2.e498bd7a.chunk.js.map": "/voice-recognition/static/js/2.e498bd7a.chunk.js.map",
+    "static/js/3.9425c850.chunk.js": "/voice-recognition/static/js/3.9425c850.chunk.js",
+    "static/js/3.9425c850.chunk.js.map": "/voice-recognition/static/js/3.9425c850.chunk.js.map",
     "index.html": "/voice-recognition/index.html",
-    "static/css/main.1272995d.chunk.css.map": "/voice-recognition/static/css/main.1272995d.chunk.css.map",
-    "static/js/2.83af2795.chunk.js.LICENSE.txt": "/voice-recognition/static/js/2.83af2795.chunk.js.LICENSE.txt",
+    "static/css/main.24cd1bcb.chunk.css.map": "/voice-recognition/static/css/main.24cd1bcb.chunk.css.map",
+    "static/js/2.e498bd7a.chunk.js.LICENSE.txt": "/voice-recognition/static/js/2.e498bd7a.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/voice-recognition/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.950d9992.js",
-    "static/js/2.83af2795.chunk.js",
-    "static/css/main.1272995d.chunk.css",
-    "static/js/main.5f61dbd4.chunk.js"
+    "static/js/runtime-main.37ac8299.js",
+    "static/js/2.e498bd7a.chunk.js",
+    "static/css/main.24cd1bcb.chunk.css",
+    "static/js/main.ea88ad6b.chunk.js"
   ]
 }
