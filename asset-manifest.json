@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/voice-recognition/static/css/main.24cd1bcb.chunk.css",
-    "main.js": "/voice-recognition/static/js/main.ea88ad6b.chunk.js",
-    "main.js.map": "/voice-recognition/static/js/main.ea88ad6b.chunk.js.map",
+    "main.css": "/voice-recognition/static/css/main.a52dac29.chunk.css",
+    "main.js": "/voice-recognition/static/js/main.b6b6d2c2.chunk.js",
+    "main.js.map": "/voice-recognition/static/js/main.b6b6d2c2.chunk.js.map",
     "runtime-main.js": "/voice-recognition/static/js/runtime-main.37ac8299.js",
     "runtime-main.js.map": "/voice-recognition/static/js/runtime-main.37ac8299.js.map",
     "static/js/2.e498bd7a.chunk.js": "/voice-recognition/static/js/2.e498bd7a.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.9425c850.chunk.js": "/voice-recognition/static/js/3.9425c850.chunk.js",
     "static/js/3.9425c850.chunk.js.map": "/voice-recognition/static/js/3.9425c850.chunk.js.map",
     "index.html": "/voice-recognition/index.html",
-    "static/css/main.24cd1bcb.chunk.css.map": "/voice-recognition/static/css/main.24cd1bcb.chunk.css.map",
+    "static/css/main.a52dac29.chunk.css.map": "/voice-recognition/static/css/main.a52dac29.chunk.css.map",
     "static/js/2.e498bd7a.chunk.js.LICENSE.txt": "/voice-recognition/static/js/2.e498bd7a.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/voice-recognition/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.37ac8299.js",
     "static/js/2.e498bd7a.chunk.js",
-    "static/css/main.24cd1bcb.chunk.css",
-    "static/js/main.ea88ad6b.chunk.js"
+    "static/css/main.a52dac29.chunk.css",
+    "static/js/main.b6b6d2c2.chunk.js"
   ]
 }
