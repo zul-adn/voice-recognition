@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/voice-recognition/static/css/main.42fcba1a.chunk.css",
-    "main.js": "/voice-recognition/static/js/main.49190a51.chunk.js",
-    "main.js.map": "/voice-recognition/static/js/main.49190a51.chunk.js.map",
+    "main.js": "/voice-recognition/static/js/main.3c1b21ba.chunk.js",
+    "main.js.map": "/voice-recognition/static/js/main.3c1b21ba.chunk.js.map",
     "runtime-main.js": "/voice-recognition/static/js/runtime-main.2345ad79.js",
     "runtime-main.js.map": "/voice-recognition/static/js/runtime-main.2345ad79.js.map",
     "static/js/2.a98e95dd.chunk.js": "/voice-recognition/static/js/2.a98e95dd.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/voice-recognition/index.html",
     "static/css/main.42fcba1a.chunk.css.map": "/voice-recognition/static/css/main.42fcba1a.chunk.css.map",
     "static/js/2.a98e95dd.chunk.js.LICENSE.txt": "/voice-recognition/static/js/2.a98e95dd.chunk.js.LICENSE.txt",
+    "static/media/alert.54f09e8a.wav": "/voice-recognition/static/media/alert.54f09e8a.wav",
     "static/media/loading.b25e7f61.gif": "/voice-recognition/static/media/loading.b25e7f61.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.2345ad79.js",
     "static/js/2.a98e95dd.chunk.js",
     "static/css/main.42fcba1a.chunk.css",
-    "static/js/main.49190a51.chunk.js"
+    "static/js/main.3c1b21ba.chunk.js"
   ]
 }
